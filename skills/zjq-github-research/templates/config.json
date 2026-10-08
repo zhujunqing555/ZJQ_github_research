@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "display_name": "ZJQ_github_research",
+  "skill_id": "zjq-github-research",
+  "activated_on": null,
+  "timezone": "Asia/Shanghai",
+  "bootstrap_days": 30,
+  "bootstrap_until_inclusive": null,
+  "continuous_from": null,
+  "schedule_local": "08:00 daily",
+  "weekly_digest_day": "Sunday",
+  "effort_percent": {"research":60,"scientific_video":15,"wechat":15,"verification_and_cross_track_reserve":10},
+  "max_highlights": 3,
+  "quality_threshold": 80,
+  "heat_preference": "verified recent seven-day star growth within relevant candidates",
+  "installation": "only when user selects a concrete project",
+  "automation_id": null
+}

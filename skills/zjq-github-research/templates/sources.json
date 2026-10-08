@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "seeds": [
+    {"repo":"K-Dense-AI/scientific-agent-skills","aliases":["K-Dense-AI/claude-scientific-skills"],"track":"research","purpose":"逐条评估科研原生技能及真实后端","verified_on":"2026-10-08"},
+    {"repo":"google-deepmind/science-skills","track":"research","purpose":"官方科学技能，核验API与配套依赖"},
+    {"repo":"pytorch/tutorials","track":"research","purpose":"机器学习/深度学习官方教程候选"},
+    {"repo":"d2l-ai/d2l-zh","track":"research","purpose":"中文深度学习学习资源候选"},
+    {"repo":"remotion-dev/skills","track":"scientific_video","purpose":"官方视频制作技能候选"},
+    {"repo":"JimLiu/baoyu-skills","track":"wechat","purpose":"逐条评估公众号写作排版与草稿辅助"},
+    {"repo":"sakuraoxo-clio/wechat-publisher","track":"wechat","purpose":"草稿箱真实入口核验"}
+  ],
+  "note":"种子仅用于发现，不保证质量、热度或本机可用；按子能力核验后推荐。"
+}

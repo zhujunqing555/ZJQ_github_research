@@ -1,0 +1,10 @@
+[
+  {"id":"pdf-evidence","track":"research","task":"科研PDF正文、图表、引文提取与证据定位","keywords":["scientific PDF","document parsing","figure extraction","citation","evidence"],"input":"PDF/DOI/原文","output":"可溯源正文、图表和引文"},
+  {"id":"single-cell-mechanism","track":"research","task":"单细胞/空间多组学状态、互作与调控机制分析","keywords":["single-cell","AnnData","Seurat","spatial","regulatory network","perturbation","cell communication"],"input":"公开单细胞/空间组学数据","output":"可解释细胞状态与候选调控轴"},
+  {"id":"crc-t2d-targets","track":"research","task":"CRC–T2D共病因果、共享调控与共同靶点优先级","keywords":["cross-trait","colocalization","fine-mapping","Mendelian randomization","immunometabolism","target prioritization"],"input":"公开GWAS/表达/组学结果","output":"可验证机制与靶点线索"},
+  {"id":"protein-design","track":"research","task":"AI蛋白/肽设计、评价和递送应用","keywords":["protein design","binder","antibody","peptide","developability","delivery"],"input":"设计目标与公开模型/示例","output":"设计/评价候选与资源要求"},
+  {"id":"ml-dl-learning","track":"research","task":"适合Python基础用户的机器学习/深度学习学习与生医复现","keywords":["machine learning tutorial","deep learning","PyTorch","notebook","biomedical classification","benchmark"],"input":"公开练习与示例数据","output":"跑通、修改、理解并迁移一个模型"},
+  {"id":"research-figures-writing","track":"research","task":"科研图表、代码复现和中文学术写作辅助","keywords":["scientific plotting","reproducible workflow","scientific writing","figure","R"],"input":"研究结果/源码/论文","output":"可编辑图表与可核验写作产物"},
+  {"id":"scientific-short-video","track":"scientific_video","task":"科研短视频脚本、图解、配音、字幕、剪辑与导出","keywords":["animation","voiceover","caption alignment","subtitle","timeline","video rendering"],"input":"已核验论文解读、图解与口播文本","output":"可编辑并可导出的中文科研短视频"},
+  {"id":"wechat-literature","track":"wechat","task":"文献推文、排版、图片和公众号草稿交付辅助","keywords":["WeChat","微信公众号","Markdown","draft","image upload","article formatting"],"input":"论文解读/文章与图片","output":"公众号文章包/HTML/明确权限下的草稿交付"}
+]

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+USER.md
+/reports/
+/runs/
+/state/
+/radar-state/
+/.validation-tmp/
+/.codex/
+/candidates.json
+/feedback.json
+*.tmp
+

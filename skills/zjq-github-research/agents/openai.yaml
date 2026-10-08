@@ -1,0 +1,6 @@
+interface:
+  display_name: "ZJQ_github_research"
+  short_description: "科研、机器学习学习、科研视频与微信公众号的 GitHub 项目雷达"
+  default_prompt: "使用 $zjq-github-research 读取我的科研画像，核验近7天热门和首月成熟GitHub项目，推送最值得试用的候选。"
+policy:
+  allow_implicit_invocation: true
